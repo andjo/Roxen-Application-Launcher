@@ -34,3 +34,5 @@ stamp-*
 !src/soppa.c
 *.anjuta
 *.anjuta*.db
+m4
+po/Makefile.in.in
